@@ -6,9 +6,9 @@ import PIL as pil
 # Twoim zadaniem jest dodać elementy CTkEntry odpowiedzialne za wprowadzenie maila i hasła oraz przycisk CTkButton
 # odpowiedzialny za zalogowanie. Po kliknięciu przycisku zaloguj, program powinien wypisywać dane na konsoli.
 
-# Składnia: button = customtkinter.CTkButton({{okno}}, text, fg_color, hover_color, width, height, corner_radius, command)
-# Składnia: entry = customtkinter.CTkEntry({{okno}}, placeholder_text, fg_color, width, height, placeholder_text_color, text_color))
-# Metody CTkEntry: get() - zwraca wpisany tekst
+# Linki do dokumentacji Button i Entry:
+# https://github.com/TomSchimansky/CustomTkinter/wiki/CTkButton
+# https://github.com/TomSchimansky/CustomTkinter/wiki/CTkEntry
 
 window = customtkinter.CTk()
 window.geometry("420x740")
