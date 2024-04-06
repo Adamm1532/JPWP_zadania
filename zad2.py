@@ -2,10 +2,11 @@ import customtkinter
 
 # Zadanie 2
 # W tym zadaniu warto wykazać się kreatywnością! Nasz Bank potrzebuje osobnego okna ustawień.
-# Używając różnych elemntów takich jak: CTkSlider, CTkOptionMenu, CTkCheckBox i CTkSwitch
+# Używając różnych elemntów takich jak: CTkSlider, CTkOptionMenu, CTkCheckBox, CTkSwitch, itd.
 # stwórz okno, które pozwoli użytkownikowi dostosować ustawienia aplikacji do swoich potrzeb.
 # (Wybrane ustawienia nie muszą nic zmieniać w aplikacji, w koncu poruszamy tylko temat GUI :P)
-# Minimum 3 różne elementy, ale im więcej tym lepiej!
+# Minimum 4 różne elementy, ale im więcej tym lepiej! Nie zapomnij też dodać odpowiedni label aby
+# użytkownik wiedział co dany element zmienia.
 
 # Linki do dokumentacji:
 # Slider - https://github.com/TomSchimansky/CustomTkinter/wiki/CTkSlider
